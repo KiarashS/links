@@ -212,7 +212,6 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   margin-top: 20px;
   padding: 20px;
   background: #870000;  /* fallback for old browsers */
- 
   width: 290px;
   display: block;
   margin-left: auto;
@@ -224,4 +223,30 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 /* --------------MAIL--------------------------------------- */
 
 
+.links-home{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
 
+.links-home:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #eec616;  /* fallback for old browsers */
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
