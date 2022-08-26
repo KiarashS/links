@@ -121,7 +121,7 @@ a {
 
 .popup {
   position: relative;
-  top: -25%;
+  top: -22%;
   /* right: -100vh; */
   display: flex;
   flex-direction: column;
@@ -165,7 +165,7 @@ a {
 
 .overlay:target .popup {
   transform: scale(1);
-  top: 0;
+  top: -170px;
   /* right: 0; */
   /* transform: rotate(0); */
 }
