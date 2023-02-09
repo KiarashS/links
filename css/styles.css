@@ -235,6 +235,17 @@ a {
   text-decoration: none;
 }
 
+.secondary {
+   border-bottom: 4px solid #636e72;
+   margin-bottom: .6rem;
+   padding-bottom: .2rem;
+   padding-left: 5px;
+   padding-right: 5px;
+   display: inline-block;
+   font-weight: bold;
+   /*color: #2d3436;*/
+ }
+
 /*-------------------------animations-----------------------*/
 @keyframes transitionAnimation {
   0% {
