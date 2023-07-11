@@ -188,6 +188,7 @@ a {
   cursor: pointer;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
+  border: 2px var(--accentColor) solid;
 }
 
 @media (hover: hover) {
