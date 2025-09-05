@@ -50,7 +50,7 @@ body {
 #profilePicture img {
   width: 210px;
   height: 210px;
-  top: -29.5px;
+  top: -29.7px;
   transition: all 0.5s ease;
 }
 
@@ -73,8 +73,7 @@ body {
 }
 
 #profilePicture img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 0 20px rgba(0,255,255,0.5);
+  transform: scale(1.08);
 }
 
 #profilePicture img:hover::before {
