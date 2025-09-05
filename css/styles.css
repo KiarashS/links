@@ -48,9 +48,9 @@ body {
 }
 
 #profilePicture img {
-  width: 218px;
-  height: 218px;
-  top: 6px;
+  width: 210px;
+  height: 210px;
+  top: -29.5px;
 }
 
 #profilePicture {
@@ -58,7 +58,7 @@ body {
   height: 230px;
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(1px);
   border-radius: 50%;
   border: 1px solid rgba(255, 255, 255, 0.3);
   box-shadow: 
