@@ -1041,6 +1041,7 @@ a {
     background: radial-gradient(circle,#7182ff 0,#3cff52 100%);
     background-clip: text;
     background-size: 200%;
+    font-weight: 600;
 }
 
 @-webkit-keyframes textShine {
