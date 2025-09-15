@@ -249,7 +249,6 @@ a {
 
 .popup-quote {
   font-family : sans-serif;
-  font-style : italic;
   position: flex;
   color: var(--accentColor);
   padding: 20px;
@@ -257,6 +256,7 @@ a {
   text-align: center;
   font-size: 1rem;
   border: 1px solid #fff;
+  line-height: 1.4rem;
 }
 
 .popup-photo {
