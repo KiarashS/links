@@ -1074,11 +1074,11 @@ a {
 }
 
 
-.link-effect a {
+.link-effect div a {
 	padding: 8px 0;
 }
 
-.link-effect a::after {
+.link-effect div a::after {
 	position: absolute;
 	top: 100%;
 	left: 0;
@@ -1095,8 +1095,8 @@ a {
 	transform: translateY(10px);
 }
 
-.link-effect a:hover::after,
-.link-effect a:focus::after {
+.link-effect div a:hover::after,
+.link-effect div a:focus::after {
 	opacity: 1;
 	-webkit-transform: translateY(0px);
 	-moz-transform: translateY(0px);
