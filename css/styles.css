@@ -256,6 +256,7 @@ a {
   background-color: var(--bgColor);
   text-align: center;
   font-size: 1rem;
+  border: 1px solid #fff;
 }
 
 .popup-photo {
